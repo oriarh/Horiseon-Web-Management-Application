@@ -20,7 +20,7 @@ UC Berkeley Extension Instructional Staff
 
 ## License
 
-N/A
+MIT License
 
 ## Features
 
